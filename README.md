@@ -12,3 +12,6 @@
 
 **Day 3**: Building Neural Netork:
     > Using a Knowledge previously learned Build a simple Neural Network
+
+
+
