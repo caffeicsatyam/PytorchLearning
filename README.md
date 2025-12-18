@@ -12,12 +12,15 @@
 
 **Day 3.1**: Building Neural Netork:
     > Using a Knowledge previously learned Build a simple Neural Network
+<<<<<<< HEAD
     
 **Day 3.2**: Improving Previous NN:
     >  Improved Neural Network with Pytorch Built functions
 
 **Day 4**: Dataset and Dataloaders in Pytorch:
     > Learned to proprocess the data for usable cases.
+=======
+>>>>>>> 2f4294dd190671cec2056504944d1a4092b50b39
 
 
 
