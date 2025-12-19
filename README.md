@@ -17,3 +17,8 @@
     >  Improved Neural Network with Pytorch Built functions
 
 
+**Day 4**: Dataset and Dataloaders in Pytorch:
+    > Learned to proprocess the data for usable cases.
+
+
+
