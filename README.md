@@ -20,5 +20,10 @@
     > Learned to proprocess the data for usable cases.
     >Improved the previous model with dataloader and datasets.
 
+**Day 51**: Building ANN :
+    > Built a fully functional GPU with Fashion MNIST DATASET
 
+**Day 5.2** Building ANN with GPU:
+    > ADDED GPU compatibility in pytorch for faster model training
+    > Improving results with some hyperparameters.
 
