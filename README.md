@@ -20,7 +20,7 @@
     > Learned to proprocess the data for usable cases.
     >Improved the previous model with dataloader and datasets.
 
-**Day 51**: Building ANN :
+**Day 5.1**: Building ANN :
     > Built a fully functional GPU with Fashion MNIST DATASET.
     > Got almost 89% of accuracy on evaluation.
 
