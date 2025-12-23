@@ -28,3 +28,9 @@
     > ADDED GPU compatibility in pytorch for faster model training.
     > Improving results with some hyperparameters.
 
+**Day 6** : Hyperparameter Tunning NN:
+    > Tunned the pervious Neural Network with optuna
+
+**Day 7** : Building a CNN using Pytorch:
+    > Using CNN on fashion-MNIST dataset.
+    > To check if it works better.
