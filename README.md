@@ -35,3 +35,7 @@
     > Using CNN on fashion-MNIST dataset.
     > To check if it works better.
     > Acheived 92%  accuracy.
+
+**Day 8** :
+    > Built a simple Q/A bot model, that answer the question from the dataset.
+    > Built on RNN
